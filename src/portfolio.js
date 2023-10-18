@@ -52,11 +52,16 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Strong proficiency in end-to-end software development, from concept to deployment"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Skilled in automating testing and deployment processes to improve development efficiency"
+    ),
+    emoji(
+      "⚡ Extensive experience in building robust and scalable APIs for data flow and storage"
+    ),
+    emoji(
+      "⚡  Versatile developer with expertise in both front-end and back-end technologies across multiple frameworks and languages."
     )
   ],
 
