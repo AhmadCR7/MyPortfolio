@@ -172,7 +172,7 @@ const educationInfo = {
       logo: require("./assets/images/sfsuLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "August 2018 - May 2021",
-      desc: "Classes taken: Software Engineering, Web Security, Operating Systems,",
+      desc: "Classes taken: Software Engineering, Operating Systems, Data Structures, Algorithms Analysis, Database Management, Computer Architecture",
       descBullets: []
     },
     {
@@ -201,7 +201,7 @@ const techStack = {
     },
     {
       Stack: "Programming",
-      progressPercentage: "70%"
+      progressPercentage: "80%"
     },
     {
       Stack: "Software Testing/Validation",
@@ -237,7 +237,7 @@ const workExperiences = {
     },
     {
       role: "Full Stack Developer - Freelancer",
-      company: "Upwork",
+      company: "UpWork",
       companylogo: require("./assets/images/upworkLogo.png"),
       date: "Dec 2017 – Dec 2020",
       desc: "Worked as a full stack developer to develop web/ mobile applications for clients around the world."
@@ -249,7 +249,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+  showGithubProfile: true, // Set true or false to show Contact profile using Github, defaults to true
   display: true // Set false to hide this section, defaults to true
 };
 
